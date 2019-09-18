@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Fatorial_FIibonacci_Divisivel3ou4\bin\Debug\Fatorial_FIibonacci_Divisivel3ou4.exe.config
+C:\Users\USER\source\repos\Fatorial_FIibonacci_Divisivel3ou4\bin\Debug\Fatorial_FIibonacci_Divisivel3ou4.exe
+C:\Users\USER\source\repos\Fatorial_FIibonacci_Divisivel3ou4\bin\Debug\Fatorial_FIibonacci_Divisivel3ou4.pdb
+C:\Users\USER\source\repos\Fatorial_FIibonacci_Divisivel3ou4\obj\Debug\Fatorial_FIibonacci_Divisivel3ou4.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Fatorial_FIibonacci_Divisivel3ou4\obj\Debug\Fatorial_FIibonacci_Divisivel3ou4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Fatorial_FIibonacci_Divisivel3ou4\obj\Debug\Fatorial_FIibonacci_Divisivel3ou4.exe
+C:\Users\USER\source\repos\Fatorial_FIibonacci_Divisivel3ou4\obj\Debug\Fatorial_FIibonacci_Divisivel3ou4.pdb
