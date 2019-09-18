@@ -29,7 +29,7 @@ namespace Fatorial_FIibonacci_Divisivel3ou4
 
             Console.WriteLine("----------------------------------------------------------------------------");
 
-            Console.WriteLine("Fatorial");
+            Console.WriteLine("FATORIAL");
 
             long fatorail = 1;
 
